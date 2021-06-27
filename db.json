@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nvidia RTX 3070",
+      "price": 8499.9
+    },
+    {
+      "id": 2,
+      "name": "AMD Radeon RX 6700 XT",
+      "price": 8699
+    },
+    {
+      "id": 3,
+      "name": "Apple MacBook Pro 13",
+      "price": 9677.99
+    },
+    {
+      "name": "Echo Dot (4ª Geração)",
+      "price": "379.05",
+      "id": 4
+    }
+  ]
+}

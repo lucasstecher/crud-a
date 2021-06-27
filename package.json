@@ -1,0 +1,23 @@
+{
+  "name": "crud-a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --port 3000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasstecher/crud-a.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasstecher/crud-a/issues"
+  },
+  "homepage": "https://github.com/lucasstecher/crud-a#readme",
+  "dependencies": {
+    "json-server": "^0.16.3"
+  }
+}
